@@ -6,7 +6,7 @@ Dernier site réaliser.
 
 // TECHNOLOGIE
 
-fait en HTML5/CSS3, JavaScript et PHP pour la découpe.
+HTML5/CSS3 (test de BootStrap), JavaScript et PHP pour la découpe.
 
 // Feature
 
